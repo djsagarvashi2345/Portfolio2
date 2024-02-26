@@ -2210,9 +2210,9 @@ display: flex;
 }
 
 
-@media only screen and (max-width: 912px) and (max-height: 1368px){
+/*@media only screen and (max-width: 912px) and (max-height: 1368px){
     /* Your styles for the Surface Pro 7 here */
-    /* Adjust styles as needed */
+    /* Adjust styles as needed /
 
     
     
@@ -2266,11 +2266,11 @@ display: flex;
         margin-bottom: -8px;
     }
     .infocontainer {
-        /* background-color: rgba(202,9,128); */
+        /* background-color: rgba(202,9,128); /
         background-color: rgb(211, 235, 250);
         height: 125vh;
         width: 80vw;
-        /* margin: 144px auto; */
+        /* margin: 144px auto; /
         margin: 89px 80px;
         justify-content: space-around;
         display: flex;
@@ -2340,7 +2340,7 @@ display: flex;
     }
     .devpic img {
         width: 726px;
-        /* height: 49vh; */
+        /* height: 49vh; /
         height: auto;
         margin-bottom: -16px;
         margin-top: -30px;
@@ -2374,7 +2374,7 @@ display: flex;
     .intro p {
         font-family: 'Source Code Pro', monospace;
         margin: 12px;
-        /* font-family: "Roboto", sans-serif; */
+        /* font-family: "Roboto", sans-serif; /
         font-family: "Mukta", sans-serif;
         font-size: 35px;
     }
